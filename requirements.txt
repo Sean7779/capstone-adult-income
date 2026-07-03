@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+mlflow
+joblib
+streamlit
+pytest
+pyyaml
+python-dotenv
+
